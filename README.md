@@ -1,5 +1,8 @@
 # Filtered-long-running-Azure-VM-traces
 
+This repository contains traces of the Virtual Machine (VM) workload of Microsoft Azure collected in 2017. The trace contains more than twenty-eight thousand VMs with over twenty-four million datapoints for CPU Utilisation readings.
+
+
 # Data Description <h1>
 
 # This is an <h1> tag
