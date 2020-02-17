@@ -4,12 +4,12 @@ This repository contains traces of the Virtual Machine (VM) workload of Microsof
 
 
 # Data Description <h2>
-* Item Dataset size: 19.4GB
-* Item Compressed dataset size: 1.8GB
-* Item Number of files: 40 files
-* Item Duration: 30 consecutive days
-* Item Total number of VMs: 28,858
-* Item Timeseries data: 5-minute VM CPU utilization readings, VM information table and subscription table (with main fields encrypted)
+*  Dataset size: 19.4GB
+*  Compressed dataset size: 1.8GB
+*  Number of files: 40 files
+*  Duration: 30 consecutive days
+*  Total number of VMs: 28,858
+*  Timeseries data: 5-minute VM CPU utilization readings, VM information table and subscription table (with main fields encrypted)
 
 *This text will be italic*
 _This will also be italic_
