@@ -2,6 +2,13 @@
 
 This repository contains traces of the Virtual Machine (VM) workload of Microsoft Azure collected in 2017. The trace contains more than twenty-eight thousand VMs with over twenty-four million datapoints for CPU Utilisation readings.
 
+The trace is a sanitised subset of the Azure VM workload described in "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms" in SOSP’17.
+
+If you do use either of these traces in your research, please make sure to cite the following papers.
+
+* Our paper "Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation
+* The original contributor  "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms"
+
 
 # Data Description <h2>
 *  Dataset size: 19.4GB
