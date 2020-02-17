@@ -6,8 +6,8 @@ The trace is a sanitised subset of the Azure VM workload described in "Resource 
 
 If you do use either of these traces in your research, please make sure to cite the following papers.
 
-* Our paper "Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation
-* The original contributor  "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms"
+* Our paper __"Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation__
+* The original contributor  __"Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms"__
 
 
 # Data Description <h2>
