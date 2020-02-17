@@ -12,7 +12,7 @@ __If you do use either of these traces in your research, please make sure to cit
 
 # Data Description <h2>
   
-# Main characteristics: <h6>
+**Main characteristics:**
 *  Dataset size: 19.4GB
 *  Compressed dataset size: 1.8GB
 *  Number of files: 40 files
@@ -20,18 +20,10 @@ __If you do use either of these traces in your research, please make sure to cit
 *  Total number of VMs: 28,858
 *  Timeseries data: 5-minute VM CPU utilization readings, VM information table and subscription table (with main fields encrypted)
 
-# Schema:<h6>
+**Schema:**
 * Encrypted VM id
 * Timestamp VM (Unix timestamp)
 * Average CPU utilisation 
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
 
 
 
