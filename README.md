@@ -4,10 +4,8 @@ This repository contains traces of the Virtual Machine (VM) workload of Microsof
 
 The trace is a sanitised subset of the Azure VM workload described in ["Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms"](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) in SOSP’17.
 
-__If you do use either of these traces in your research, please make sure to cite the following papers.__
+__If you do use either of these traces in your research, please make sure to cite the following papers our paper --> "Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation__
 
-* __Our paper -->__ "Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation
-* __The original contributor -->__ "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms"
 
 
 # Data Description
