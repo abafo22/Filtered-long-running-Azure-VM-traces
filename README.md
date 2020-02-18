@@ -30,3 +30,9 @@ __If you do use either of these traces in your research, please make sure to cit
 # Download Link <h2>
 
 **You can download the dataset from Google Drive storage using the links available [here](https://drive.google.com/drive/folders/1O1SIq4Exn0W1YdKjPw-RcXAdF-EkrH9e?usp=sharing)**
+
+# Contact us <h2>
+  
+**Please let us know of any issues or questions by sending email to**
+* Abdullahi Abubakar (aabubakar02@qub.ac.uk) 
+  
