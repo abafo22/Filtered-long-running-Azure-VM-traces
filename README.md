@@ -9,6 +9,7 @@ __If you do use either of these traces in your research, please make sure to cit
 Abubakar, A., Barbhuiya, S., Kilpatrick, P., Vien, N. and Nikolopoulos, D.
 Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation.
 In Proceedings of the 10th International Conference on Cloud Computing and Services Science (CLOSER 2020), pages 115-126
+
 ISBN: 978-989-758-424-4
 
 
