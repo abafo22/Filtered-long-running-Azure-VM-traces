@@ -6,6 +6,12 @@ The trace is a sanitised subset of the Azure VM workload described in ["Resource
 
 __If you do use either of these traces in your research, please make sure to cite our paper --> "Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation"__
 
+Abubakar, A., Barbhuiya, S., Kilpatrick, P., Vien, N. and Nikolopoulos, D.
+Fast Analysis and Prediction in Large Scale Virtual Machines Resource Utilisation.
+In Proceedings of the 10th International Conference on Cloud Computing and Services Science (CLOSER 2020), pages 115-126
+ISBN: 978-989-758-424-4
+
+
 
 
 # Data Description
